@@ -1,0 +1,23 @@
+# dune exec bicikelj_api
+# OCAMLPARAM: unset
+# Shared cache: disabled
+# Shared cache location: /home/mabeline/.cache/dune/db
+# Workspace root: /home/mabeline/workspace/programming/bicikelj_api
+# Auto-detected concurrency: 12
+# Dune context:
+#  { name = "default"
+#  ; kind = "default"
+#  ; profile = Dev
+#  ; merlin = true
+#  ; fdo_target_exe = None
+#  ; build_dir = In_build_dir "default"
+#  ; installed_env =
+#      map
+#        { "INSIDE_DUNE" :
+#            "/home/mabeline/workspace/programming/bicikelj_api/_build/default"
+#        ; "OCAML_COLOR" : "always"
+#        ; "OPAMCOLOR" : "always"
+#        }
+#  ; instrument_with = []
+#  }
+$ /sbin/ocamlc.opt -config > /tmp/dune_ae71a6_output

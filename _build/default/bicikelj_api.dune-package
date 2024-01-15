@@ -1,0 +1,4 @@
+(lang dune 3.12)
+(name bicikelj_api)
+(sections (lib .) (bin ../../bin))
+(files (lib (META dune-package opam)) (bin (bicikelj_api)))

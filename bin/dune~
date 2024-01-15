@@ -1,0 +1,4 @@
+(executable
+ (public_name bicikelj_api)
+ (name main)
+ (libraries bicikelj_api))

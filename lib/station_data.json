@@ -1,0 +1,3362 @@
+[
+  {
+    "number": 59,
+    "contractName": "ljubljana",
+    "name": "LIDL BEŽIGRAD",
+    "address": "Bežigrad 11",
+    "position": {
+      "latitude": 46.063797,
+      "longitude": 14.506854
+    },
+    "banking": false,
+    "bonus": false,
+    "status": "OPEN",
+    "lastUpdate": "2024-01-14T22:38:58Z",
+    "connected": true,
+    "overflow": false,
+    "shape": null,
+    "totalStands": {
+      "availabilities": {
+        "bikes": 17,
+        "stands": 3,
+        "mechanicalBikes": 17,
+        "electricalBikes": 0,
+        "electricalInternalBatteryBikes": 0,
+        "electricalRemovableBatteryBikes": 0
+      },
+      "capacity": 20
+    },
+    "mainStands": {
+      "availabilities": {
+        "bikes": 17,
+        "stands": 3,
+        "mechanicalBikes": 17,
+        "electricalBikes": 0,
+        "electricalInternalBatteryBikes": 0,
+        "electricalRemovableBatteryBikes": 0
+      },
+      "capacity": 20
+    },
+    "overflowStands": null
+  },
+  {
+    "number": 54,
+    "contractName": "ljubljana",
+    "name": "ŠMARTINSKI PARK",
+    "address": "Smartinska cesta 58",
+    "position": {
+      "latitude": 46.065206,
+      "longitude": 14.529911
+    },
+    "banking": false,
+    "bonus": false,
+    "status": "OPEN",
+    "lastUpdate": "2024-01-14T22:30:21Z",
+    "connected": true,
+    "overflow": false,
+    "shape": null,
+    "totalStands": {
+      "availabilities": {
+        "bikes": 4,
+        "stands": 16,
+        "mechanicalBikes": 4,
+        "electricalBikes": 0,
+        "electricalInternalBatteryBikes": 0,
+        "electricalRemovableBatteryBikes": 0
+      },
+      "capacity": 20
+    },
+    "mainStands": {
+      "availabilities": {
+        "bikes": 4,
+        "stands": 16,
+        "mechanicalBikes": 4,
+        "electricalBikes": 0,
+        "electricalInternalBatteryBikes": 0,
+        "electricalRemovableBatteryBikes": 0
+      },
+      "capacity": 20
+    },
+    "overflowStands": null
+  },
+  {
+    "number": 45,
+    "contractName": "ljubljana",
+    "name": "SAVSKO NASELJE 1-ŠMARTINSKA CESTA",
+    "address": "Savska cesta 1",
+    "position": {
+      "latitude": 46.062475,
+      "longitude": 14.524321
+    },
+    "banking": false,
+    "bonus": false,
+    "status": "OPEN",
+    "lastUpdate": "2024-01-14T22:30:45Z",
+    "connected": true,
+    "overflow": false,
+    "shape": null,
+    "totalStands": {
+      "availabilities": {
+        "bikes": 1,
+        "stands": 19,
+        "mechanicalBikes": 1,
+        "electricalBikes": 0,
+        "electricalInternalBatteryBikes": 0,
+        "electricalRemovableBatteryBikes": 0
+      },
+      "capacity": 20
+    },
+    "mainStands": {
+      "availabilities": {
+        "bikes": 1,
+        "stands": 19,
+        "mechanicalBikes": 1,
+        "electricalBikes": 0,
+        "electricalInternalBatteryBikes": 0,
+        "electricalRemovableBatteryBikes": 0
+      },
+      "capacity": 20
+    },
+    "overflowStands": null
+  },
+  {
+    "number": 68,
+    "contractName": "ljubljana",
+    "name": "ČRNUČE",
+    "address": "Dunajska cesta",
+    "position": {
+      "latitude": 46.102446,
+      "longitude": 14.530213
+    },
+    "banking": false,
+    "bonus": false,
+    "status": "OPEN",
+    "lastUpdate": "2024-01-14T22:37:46Z",
+    "connected": true,
+    "overflow": false,
+    "shape": null,
+    "totalStands": {
+      "availabilities": {
+        "bikes": 9,
+        "stands": 11,
+        "mechanicalBikes": 9,
+        "electricalBikes": 0,
+        "electricalInternalBatteryBikes": 0,
+        "electricalRemovableBatteryBikes": 0
+      },
+      "capacity": 20
+    },
+    "mainStands": {
+      "availabilities": {
+        "bikes": 9,
+        "stands": 11,
+        "mechanicalBikes": 9,
+        "electricalBikes": 0,
+        "electricalInternalBatteryBikes": 0,
+        "electricalRemovableBatteryBikes": 0
+      },
+      "capacity": 20
+    },
+    "overflowStands": null
+  },
+  {
+    "number": 11,
+    "contractName": "ljubljana",
+    "name": "VILHARJEVA CESTA",
+    "address": "Vilharjeva cesta 23",
+    "position": {
+      "latitude": 46.06005,
+      "longitude": 14.51302
+    },
+    "banking": false,
+    "bonus": false,
+    "status": "OPEN",
+    "lastUpdate": "2024-01-14T22:30:35Z",
+    "connected": true,
+    "overflow": false,
+    "shape": null,
+    "totalStands": {
+      "availabilities": {
+        "bikes": 0,
+        "stands": 20,
+        "mechanicalBikes": 0,
+        "electricalBikes": 0,
+        "electricalInternalBatteryBikes": 0,
+        "electricalRemovableBatteryBikes": 0
+      },
+      "capacity": 20
+    },
+    "mainStands": {
+      "availabilities": {
+        "bikes": 0,
+        "stands": 20,
+        "mechanicalBikes": 0,
+        "electricalBikes": 0,
+        "electricalInternalBatteryBikes": 0,
+        "electricalRemovableBatteryBikes": 0
+      },
+      "capacity": 20
+    },
+    "overflowStands": null
+  },
+  {
+    "number": 10,
+    "contractName": "ljubljana",
+    "name": "MASARYKOVA DDC",
+    "address": "Masarykova cesta 14",
+    "position": {
+      "latitude": 46.05763,
+      "longitude": 14.514264
+    },
+    "banking": false,
+    "bonus": false,
+    "status": "OPEN",
+    "lastUpdate": "2024-01-14T22:37:32Z",
+    "connected": true,
+    "overflow": false,
+    "shape": null,
+    "totalStands": {
+      "availabilities": {
+        "bikes": 0,
+        "stands": 18,
+        "mechanicalBikes": 0,
+        "electricalBikes": 0,
+        "electricalInternalBatteryBikes": 0,
+        "electricalRemovableBatteryBikes": 0
+      },
+      "capacity": 18
+    },
+    "mainStands": {
+      "availabilities": {
+        "bikes": 0,
+        "stands": 18,
+        "mechanicalBikes": 0,
+        "electricalBikes": 0,
+        "electricalInternalBatteryBikes": 0,
+        "electricalRemovableBatteryBikes": 0
+      },
+      "capacity": 18
+    },
+    "overflowStands": null
+  },
+  {
+    "number": 2,
+    "contractName": "ljubljana",
+    "name": "POGAČARJEV TRG-TRŽNICA",
+    "address": "Pogačarjev trg 3",
+    "position": {
+      "latitude": 46.051093,
+      "longitude": 14.507186
+    },
+    "banking": false,
+    "bonus": false,
+    "status": "OPEN",
+    "lastUpdate": "2024-01-14T22:39:14Z",
+    "connected": true,
+    "overflow": false,
+    "shape": null,
+    "totalStands": {
+      "availabilities": {
+        "bikes": 16,
+        "stands": 2,
+        "mechanicalBikes": 16,
+        "electricalBikes": 0,
+        "electricalInternalBatteryBikes": 0,
+        "electricalRemovableBatteryBikes": 0
+      },
+      "capacity": 18
+    },
+    "mainStands": {
+      "availabilities": {
+        "bikes": 16,
+        "stands": 2,
+        "mechanicalBikes": 16,
+        "electricalBikes": 0,
+        "electricalInternalBatteryBikes": 0,
+        "electricalRemovableBatteryBikes": 0
+      },
+      "capacity": 18
+    },
+    "overflowStands": null
+  },
+  {
+    "number": 4,
+    "contractName": "ljubljana",
+    "name": "CANKARJEVA UL.-NAMA",
+    "address": "Cankarjeva cesta 1",
+    "position": {
+      "latitude": 46.052431,
+      "longitude": 14.503257
+    },
+    "banking": false,
+    "bonus": false,
+    "status": "OPEN",
+    "lastUpdate": "2024-01-14T22:38:35Z",
+    "connected": true,
+    "overflow": false,
+    "shape": null,
+    "totalStands": {
+      "availabilities": {
+        "bikes": 0,
+        "stands": 26,
+        "mechanicalBikes": 0,
+        "electricalBikes": 0,
+        "electricalInternalBatteryBikes": 0,
+        "electricalRemovableBatteryBikes": 0
+      },
+      "capacity": 26
+    },
+    "mainStands": {
+      "availabilities": {
+        "bikes": 0,
+        "stands": 26,
+        "mechanicalBikes": 0,
+        "electricalBikes": 0,
+        "electricalInternalBatteryBikes": 0,
+        "electricalRemovableBatteryBikes": 0
+      },
+      "capacity": 26
+    },
+    "overflowStands": null
+  },
+  {
+    "number": 41,
+    "contractName": "ljubljana",
+    "name": "ANTONOV TRG",
+    "address": "Tržaška 91",
+    "position": {
+      "latitude": 46.041753,
+      "longitude": 14.477016
+    },
+    "banking": false,
+    "bonus": false,
+    "status": "OPEN",
+    "lastUpdate": "2024-01-14T22:37:50Z",
+    "connected": true,
+    "overflow": false,
+    "shape": null,
+    "totalStands": {
+      "availabilities": {
+        "bikes": 20,
+        "stands": 0,
+        "mechanicalBikes": 20,
+        "electricalBikes": 0,
+        "electricalInternalBatteryBikes": 0,
+        "electricalRemovableBatteryBikes": 0
+      },
+      "capacity": 20
+    },
+    "mainStands": {
+      "availabilities": {
+        "bikes": 20,
+        "stands": 0,
+        "mechanicalBikes": 20,
+        "electricalBikes": 0,
+        "electricalInternalBatteryBikes": 0,
+        "electricalRemovableBatteryBikes": 0
+      },
+      "capacity": 20
+    },
+    "overflowStands": null
+  },
+  {
+    "number": 73,
+    "contractName": "ljubljana",
+    "name": "PRUŠNIKOVA",
+    "address": "Prušnikova ulica",
+    "position": {
+      "latitude": 46.090608,
+      "longitude": 14.471637
+    },
+    "banking": false,
+    "bonus": false,
+    "status": "OPEN",
+    "lastUpdate": "2024-01-14T22:37:32Z",
+    "connected": true,
+    "overflow": false,
+    "shape": null,
+    "totalStands": {
+      "availabilities": {
+        "bikes": 10,
+        "stands": 10,
+        "mechanicalBikes": 10,
+        "electricalBikes": 0,
+        "electricalInternalBatteryBikes": 0,
+        "electricalRemovableBatteryBikes": 0
+      },
+      "capacity": 20
+    },
+    "mainStands": {
+      "availabilities": {
+        "bikes": 10,
+        "stands": 10,
+        "mechanicalBikes": 10,
+        "electricalBikes": 0,
+        "electricalInternalBatteryBikes": 0,
+        "electricalRemovableBatteryBikes": 0
+      },
+      "capacity": 20
+    },
+    "overflowStands": null
+  },
+  {
+    "number": 76,
+    "contractName": "ljubljana",
+    "name": "TEHNOLOŠKI PARK",
+    "address": "Tehnološki park",
+    "position": {
+      "latitude": 46.04843,
+      "longitude": 14.461086
+    },
+    "banking": false,
+    "bonus": false,
+    "status": "OPEN",
+    "lastUpdate": "2024-01-14T22:38:06Z",
+    "connected": true,
+    "overflow": false,
+    "shape": null,
+    "totalStands": {
+      "availabilities": {
+        "bikes": 9,
+        "stands": 11,
+        "mechanicalBikes": 9,
+        "electricalBikes": 0,
+        "electricalInternalBatteryBikes": 0,
+        "electricalRemovableBatteryBikes": 0
+      },
+      "capacity": 20
+    },
+    "mainStands": {
+      "availabilities": {
+        "bikes": 9,
+        "stands": 11,
+        "mechanicalBikes": 9,
+        "electricalBikes": 0,
+        "electricalInternalBatteryBikes": 0,
+        "electricalRemovableBatteryBikes": 0
+      },
+      "capacity": 20
+    },
+    "overflowStands": null
+  },
+  {
+    "number": 66,
+    "contractName": "ljubljana",
+    "name": "KOSEŠKI BAJER",
+    "address": "Koseška cesta",
+    "position": {
+      "latitude": 46.068443,
+      "longitude": 14.470913
+    },
+    "banking": false,
+    "bonus": false,
+    "status": "OPEN",
+    "lastUpdate": "2024-01-14T22:34:43Z",
+    "connected": true,
+    "overflow": false,
+    "shape": null,
+    "totalStands": {
+      "availabilities": {
+        "bikes": 9,
+        "stands": 11,
+        "mechanicalBikes": 9,
+        "electricalBikes": 0,
+        "electricalInternalBatteryBikes": 0,
+        "electricalRemovableBatteryBikes": 0
+      },
+      "capacity": 20
+    },
+    "mainStands": {
+      "availabilities": {
+        "bikes": 9,
+        "stands": 11,
+        "mechanicalBikes": 9,
+        "electricalBikes": 0,
+        "electricalInternalBatteryBikes": 0,
+        "electricalRemovableBatteryBikes": 0
+      },
+      "capacity": 20
+    },
+    "overflowStands": null
+  },
+  {
+    "number": 19,
+    "contractName": "ljubljana",
+    "name": "TIVOLI",
+    "address": "Celovška cesta 26",
+    "position": {
+      "latitude": 46.05952,
+      "longitude": 14.4982
+    },
+    "banking": false,
+    "bonus": false,
+    "status": "OPEN",
+    "lastUpdate": "2024-01-14T22:38:32Z",
+    "connected": true,
+    "overflow": false,
+    "shape": null,
+    "totalStands": {
+      "availabilities": {
+        "bikes": 1,
+        "stands": 19,
+        "mechanicalBikes": 1,
+        "electricalBikes": 0,
+        "electricalInternalBatteryBikes": 0,
+        "electricalRemovableBatteryBikes": 0
+      },
+      "capacity": 20
+    },
+    "mainStands": {
+      "availabilities": {
+        "bikes": 1,
+        "stands": 19,
+        "mechanicalBikes": 1,
+        "electricalBikes": 0,
+        "electricalInternalBatteryBikes": 0,
+        "electricalRemovableBatteryBikes": 0
+      },
+      "capacity": 20
+    },
+    "overflowStands": null
+  },
+  {
+    "number": 25,
+    "contractName": "ljubljana",
+    "name": "TRŽNICA MOSTE",
+    "address": "Zaloška cesta 54",
+    "position": {
+      "latitude": 46.055801,
+      "longitude": 14.534156
+    },
+    "banking": false,
+    "bonus": false,
+    "status": "OPEN",
+    "lastUpdate": "2024-01-14T22:38:33Z",
+    "connected": true,
+    "overflow": false,
+    "shape": null,
+    "totalStands": {
+      "availabilities": {
+        "bikes": 8,
+        "stands": 13,
+        "mechanicalBikes": 8,
+        "electricalBikes": 0,
+        "electricalInternalBatteryBikes": 0,
+        "electricalRemovableBatteryBikes": 0
+      },
+      "capacity": 21
+    },
+    "mainStands": {
+      "availabilities": {
+        "bikes": 8,
+        "stands": 13,
+        "mechanicalBikes": 8,
+        "electricalBikes": 0,
+        "electricalInternalBatteryBikes": 0,
+        "electricalRemovableBatteryBikes": 0
+      },
+      "capacity": 21
+    },
+    "overflowStands": null
+  },
+  {
+    "number": 6,
+    "contractName": "ljubljana",
+    "name": "GRUDNOVO NABREŽJE-KARLOVŠKA C.",
+    "address": "Grudnovo nabrežje 3",
+    "position": {
+      "latitude": 46.045748,
+      "longitude": 14.506196
+    },
+    "banking": false,
+    "bonus": false,
+    "status": "OPEN",
+    "lastUpdate": "2024-01-14T22:39:35Z",
+    "connected": true,
+    "overflow": false,
+    "shape": null,
+    "totalStands": {
+      "availabilities": {
+        "bikes": 10,
+        "stands": 8,
+        "mechanicalBikes": 10,
+        "electricalBikes": 0,
+        "electricalInternalBatteryBikes": 0,
+        "electricalRemovableBatteryBikes": 0
+      },
+      "capacity": 18
+    },
+    "mainStands": {
+      "availabilities": {
+        "bikes": 10,
+        "stands": 8,
+        "mechanicalBikes": 10,
+        "electricalBikes": 0,
+        "electricalInternalBatteryBikes": 0,
+        "electricalRemovableBatteryBikes": 0
+      },
+      "capacity": 18
+    },
+    "overflowStands": null
+  },
+  {
+    "number": 51,
+    "contractName": "ljubljana",
+    "name": "LIDL-LITIJSKA CESTA",
+    "address": "Litijska cesta 53",
+    "position": {
+      "latitude": 46.047689,
+      "longitude": 14.547416
+    },
+    "banking": false,
+    "bonus": false,
+    "status": "OPEN",
+    "lastUpdate": "2024-01-14T22:39:00Z",
+    "connected": true,
+    "overflow": false,
+    "shape": null,
+    "totalStands": {
+      "availabilities": {
+        "bikes": 6,
+        "stands": 14,
+        "mechanicalBikes": 6,
+        "electricalBikes": 0,
+        "electricalInternalBatteryBikes": 0,
+        "electricalRemovableBatteryBikes": 0
+      },
+      "capacity": 20
+    },
+    "mainStands": {
+      "availabilities": {
+        "bikes": 6,
+        "stands": 14,
+        "mechanicalBikes": 6,
+        "electricalBikes": 0,
+        "electricalInternalBatteryBikes": 0,
+        "electricalRemovableBatteryBikes": 0
+      },
+      "capacity": 20
+    },
+    "overflowStands": null
+  },
+  {
+    "number": 31,
+    "contractName": "ljubljana",
+    "name": "ŠPORTNI CENTER STOŽICE",
+    "address": "Vojkova cesta 91",
+    "position": {
+      "latitude": 46.08259,
+      "longitude": 14.52016
+    },
+    "banking": false,
+    "bonus": false,
+    "status": "OPEN",
+    "lastUpdate": "2024-01-14T22:31:42Z",
+    "connected": true,
+    "overflow": false,
+    "shape": null,
+    "totalStands": {
+      "availabilities": {
+        "bikes": 7,
+        "stands": 18,
+        "mechanicalBikes": 7,
+        "electricalBikes": 0,
+        "electricalInternalBatteryBikes": 0,
+        "electricalRemovableBatteryBikes": 0
+      },
+      "capacity": 26
+    },
+    "mainStands": {
+      "availabilities": {
+        "bikes": 7,
+        "stands": 18,
+        "mechanicalBikes": 7,
+        "electricalBikes": 0,
+        "electricalInternalBatteryBikes": 0,
+        "electricalRemovableBatteryBikes": 0
+      },
+      "capacity": 26
+    },
+    "overflowStands": null
+  },
+  {
+    "number": 22,
+    "contractName": "ljubljana",
+    "name": "ŠPICA",
+    "address": "Prule 8",
+    "position": {
+      "latitude": 46.040213,
+      "longitude": 14.512044
+    },
+    "banking": false,
+    "bonus": false,
+    "status": "OPEN",
+    "lastUpdate": "2024-01-14T22:37:57Z",
+    "connected": true,
+    "overflow": false,
+    "shape": null,
+    "totalStands": {
+      "availabilities": {
+        "bikes": 7,
+        "stands": 11,
+        "mechanicalBikes": 7,
+        "electricalBikes": 0,
+        "electricalInternalBatteryBikes": 0,
+        "electricalRemovableBatteryBikes": 0
+      },
+      "capacity": 18
+    },
+    "mainStands": {
+      "availabilities": {
+        "bikes": 7,
+        "stands": 11,
+        "mechanicalBikes": 7,
+        "electricalBikes": 0,
+        "electricalInternalBatteryBikes": 0,
+        "electricalRemovableBatteryBikes": 0
+      },
+      "capacity": 18
+    },
+    "overflowStands": null
+  },
+  {
+    "number": 80,
+    "contractName": "ljubljana",
+    "name": "ROŠKA - STRELIŠKA",
+    "address": "Roška cesta",
+    "position": {
+      "latitude": 46.045,
+      "longitude": 14.51846
+    },
+    "banking": false,
+    "bonus": false,
+    "status": "OPEN",
+    "lastUpdate": "2024-01-14T22:38:05Z",
+    "connected": true,
+    "overflow": false,
+    "shape": null,
+    "totalStands": {
+      "availabilities": {
+        "bikes": 5,
+        "stands": 15,
+        "mechanicalBikes": 5,
+        "electricalBikes": 0,
+        "electricalInternalBatteryBikes": 0,
+        "electricalRemovableBatteryBikes": 0
+      },
+      "capacity": 20
+    },
+    "mainStands": {
+      "availabilities": {
+        "bikes": 5,
+        "stands": 15,
+        "mechanicalBikes": 5,
+        "electricalBikes": 0,
+        "electricalInternalBatteryBikes": 0,
+        "electricalRemovableBatteryBikes": 0
+      },
+      "capacity": 20
+    },
+    "overflowStands": null
+  },
+  {
+    "number": 8,
+    "contractName": "ljubljana",
+    "name": "BAVARSKI DVOR",
+    "address": "Slovenska cesta 55c",
+    "position": {
+      "latitude": 46.05682,
+      "longitude": 14.50551
+    },
+    "banking": false,
+    "bonus": false,
+    "status": "OPEN",
+    "lastUpdate": "2024-01-14T22:39:16Z",
+    "connected": true,
+    "overflow": false,
+    "shape": null,
+    "totalStands": {
+      "availabilities": {
+        "bikes": 2,
+        "stands": 18,
+        "mechanicalBikes": 2,
+        "electricalBikes": 0,
+        "electricalInternalBatteryBikes": 0,
+        "electricalRemovableBatteryBikes": 0
+      },
+      "capacity": 20
+    },
+    "mainStands": {
+      "availabilities": {
+        "bikes": 2,
+        "stands": 18,
+        "mechanicalBikes": 2,
+        "electricalBikes": 0,
+        "electricalInternalBatteryBikes": 0,
+        "electricalRemovableBatteryBikes": 0
+      },
+      "capacity": 20
+    },
+    "overflowStands": null
+  },
+  {
+    "number": 20,
+    "contractName": "ljubljana",
+    "name": "STARA CERKEV",
+    "address": "Celovška cesta 69",
+    "position": {
+      "latitude": 46.06342,
+      "longitude": 14.494588
+    },
+    "banking": false,
+    "bonus": false,
+    "status": "OPEN",
+    "lastUpdate": "2024-01-14T22:38:19Z",
+    "connected": true,
+    "overflow": false,
+    "shape": null,
+    "totalStands": {
+      "availabilities": {
+        "bikes": 2,
+        "stands": 12,
+        "mechanicalBikes": 2,
+        "electricalBikes": 0,
+        "electricalInternalBatteryBikes": 0,
+        "electricalRemovableBatteryBikes": 0
+      },
+      "capacity": 14
+    },
+    "mainStands": {
+      "availabilities": {
+        "bikes": 2,
+        "stands": 12,
+        "mechanicalBikes": 2,
+        "electricalBikes": 0,
+        "electricalInternalBatteryBikes": 0,
+        "electricalRemovableBatteryBikes": 0
+      },
+      "capacity": 14
+    },
+    "overflowStands": null
+  },
+  {
+    "number": 46,
+    "contractName": "ljubljana",
+    "name": "SITULA",
+    "address": "Vilharjeva cesta 44",
+    "position": {
+      "latitude": 46.059433,
+      "longitude": 14.52051
+    },
+    "banking": false,
+    "bonus": false,
+    "status": "OPEN",
+    "lastUpdate": "2024-01-14T22:37:26Z",
+    "connected": true,
+    "overflow": false,
+    "shape": null,
+    "totalStands": {
+      "availabilities": {
+        "bikes": 1,
+        "stands": 19,
+        "mechanicalBikes": 1,
+        "electricalBikes": 0,
+        "electricalInternalBatteryBikes": 0,
+        "electricalRemovableBatteryBikes": 0
+      },
+      "capacity": 20
+    },
+    "mainStands": {
+      "availabilities": {
+        "bikes": 1,
+        "stands": 19,
+        "mechanicalBikes": 1,
+        "electricalBikes": 0,
+        "electricalInternalBatteryBikes": 0,
+        "electricalRemovableBatteryBikes": 0
+      },
+      "capacity": 20
+    },
+    "overflowStands": null
+  },
+  {
+    "number": 17,
+    "contractName": "ljubljana",
+    "name": "ILIRSKA ULICA",
+    "address": "Ilirska ulica 1",
+    "position": {
+      "latitude": 46.053144,
+      "longitude": 14.513479
+    },
+    "banking": false,
+    "bonus": false,
+    "status": "OPEN",
+    "lastUpdate": "2024-01-14T22:39:02Z",
+    "connected": true,
+    "overflow": false,
+    "shape": null,
+    "totalStands": {
+      "availabilities": {
+        "bikes": 5,
+        "stands": 13,
+        "mechanicalBikes": 5,
+        "electricalBikes": 0,
+        "electricalInternalBatteryBikes": 0,
+        "electricalRemovableBatteryBikes": 0
+      },
+      "capacity": 18
+    },
+    "mainStands": {
+      "availabilities": {
+        "bikes": 5,
+        "stands": 13,
+        "mechanicalBikes": 5,
+        "electricalBikes": 0,
+        "electricalInternalBatteryBikes": 0,
+        "electricalRemovableBatteryBikes": 0
+      },
+      "capacity": 18
+    },
+    "overflowStands": null
+  },
+  {
+    "number": 72,
+    "contractName": "ljubljana",
+    "name": "LIDL - RUDNIK",
+    "address": "Betettova cesta",
+    "position": {
+      "latitude": 46.020012,
+      "longitude": 14.532479
+    },
+    "banking": false,
+    "bonus": false,
+    "status": "OPEN",
+    "lastUpdate": "2024-01-14T22:39:31Z",
+    "connected": true,
+    "overflow": false,
+    "shape": null,
+    "totalStands": {
+      "availabilities": {
+        "bikes": 8,
+        "stands": 12,
+        "mechanicalBikes": 8,
+        "electricalBikes": 0,
+        "electricalInternalBatteryBikes": 0,
+        "electricalRemovableBatteryBikes": 0
+      },
+      "capacity": 20
+    },
+    "mainStands": {
+      "availabilities": {
+        "bikes": 8,
+        "stands": 12,
+        "mechanicalBikes": 8,
+        "electricalBikes": 0,
+        "electricalInternalBatteryBikes": 0,
+        "electricalRemovableBatteryBikes": 0
+      },
+      "capacity": 20
+    },
+    "overflowStands": null
+  },
+  {
+    "number": 64,
+    "contractName": "ljubljana",
+    "name": "KOPALIŠČE KOLEZIJA",
+    "address": "Gunduličeva ulica",
+    "position": {
+      "latitude": 46.042867,
+      "longitude": 14.495239
+    },
+    "banking": false,
+    "bonus": false,
+    "status": "OPEN",
+    "lastUpdate": "2024-01-14T22:37:22Z",
+    "connected": true,
+    "overflow": false,
+    "shape": null,
+    "totalStands": {
+      "availabilities": {
+        "bikes": 2,
+        "stands": 18,
+        "mechanicalBikes": 2,
+        "electricalBikes": 0,
+        "electricalInternalBatteryBikes": 0,
+        "electricalRemovableBatteryBikes": 0
+      },
+      "capacity": 20
+    },
+    "mainStands": {
+      "availabilities": {
+        "bikes": 2,
+        "stands": 18,
+        "mechanicalBikes": 2,
+        "electricalBikes": 0,
+        "electricalInternalBatteryBikes": 0,
+        "electricalRemovableBatteryBikes": 0
+      },
+      "capacity": 20
+    },
+    "overflowStands": null
+  },
+  {
+    "number": 74,
+    "contractName": "ljubljana",
+    "name": "POVŠETOVA - KAJUHOVA",
+    "address": "Povšetova - Kajuhova",
+    "position": {
+      "latitude": 46.051512,
+      "longitude": 14.539272
+    },
+    "banking": false,
+    "bonus": false,
+    "status": "OPEN",
+    "lastUpdate": "2024-01-14T22:38:18Z",
+    "connected": true,
+    "overflow": false,
+    "shape": null,
+    "totalStands": {
+      "availabilities": {
+        "bikes": 4,
+        "stands": 16,
+        "mechanicalBikes": 4,
+        "electricalBikes": 0,
+        "electricalInternalBatteryBikes": 0,
+        "electricalRemovableBatteryBikes": 0
+      },
+      "capacity": 20
+    },
+    "mainStands": {
+      "availabilities": {
+        "bikes": 4,
+        "stands": 16,
+        "mechanicalBikes": 4,
+        "electricalBikes": 0,
+        "electricalInternalBatteryBikes": 0,
+        "electricalRemovableBatteryBikes": 0
+      },
+      "capacity": 20
+    },
+    "overflowStands": null
+  },
+  {
+    "number": 29,
+    "contractName": "ljubljana",
+    "name": "DUNAJSKA C.-PS MERCATOR",
+    "address": "Dunajska cesta 105",
+    "position": {
+      "latitude": 46.074193,
+      "longitude": 14.511134
+    },
+    "banking": false,
+    "bonus": false,
+    "status": "OPEN",
+    "lastUpdate": "2024-01-14T22:38:21Z",
+    "connected": true,
+    "overflow": false,
+    "shape": null,
+    "totalStands": {
+      "availabilities": {
+        "bikes": 8,
+        "stands": 10,
+        "mechanicalBikes": 8,
+        "electricalBikes": 0,
+        "electricalInternalBatteryBikes": 0,
+        "electricalRemovableBatteryBikes": 0
+      },
+      "capacity": 18
+    },
+    "mainStands": {
+      "availabilities": {
+        "bikes": 8,
+        "stands": 10,
+        "mechanicalBikes": 8,
+        "electricalBikes": 0,
+        "electricalInternalBatteryBikes": 0,
+        "electricalRemovableBatteryBikes": 0
+      },
+      "capacity": 18
+    },
+    "overflowStands": null
+  },
+  {
+    "number": 34,
+    "contractName": "ljubljana",
+    "name": "CITYPARK",
+    "address": "Citypark - Šmartinska 152 g",
+    "position": {
+      "latitude": 46.068805,
+      "longitude": 14.546257
+    },
+    "banking": false,
+    "bonus": false,
+    "status": "OPEN",
+    "lastUpdate": "2024-01-14T22:36:24Z",
+    "connected": true,
+    "overflow": false,
+    "shape": null,
+    "totalStands": {
+      "availabilities": {
+        "bikes": 12,
+        "stands": 8,
+        "mechanicalBikes": 12,
+        "electricalBikes": 0,
+        "electricalInternalBatteryBikes": 0,
+        "electricalRemovableBatteryBikes": 0
+      },
+      "capacity": 20
+    },
+    "mainStands": {
+      "availabilities": {
+        "bikes": 12,
+        "stands": 8,
+        "mechanicalBikes": 12,
+        "electricalBikes": 0,
+        "electricalInternalBatteryBikes": 0,
+        "electricalRemovableBatteryBikes": 0
+      },
+      "capacity": 20
+    },
+    "overflowStands": null
+  },
+  {
+    "number": 32,
+    "contractName": "ljubljana",
+    "name": "KOPRSKA ULICA",
+    "address": "Koprska ulica 98",
+    "position": {
+      "latitude": 46.033408,
+      "longitude": 14.482468
+    },
+    "banking": false,
+    "bonus": false,
+    "status": "OPEN",
+    "lastUpdate": "2024-01-14T22:38:05Z",
+    "connected": true,
+    "overflow": false,
+    "shape": null,
+    "totalStands": {
+      "availabilities": {
+        "bikes": 4,
+        "stands": 4,
+        "mechanicalBikes": 4,
+        "electricalBikes": 0,
+        "electricalInternalBatteryBikes": 0,
+        "electricalRemovableBatteryBikes": 0
+      },
+      "capacity": 8
+    },
+    "mainStands": {
+      "availabilities": {
+        "bikes": 4,
+        "stands": 4,
+        "mechanicalBikes": 4,
+        "electricalBikes": 0,
+        "electricalInternalBatteryBikes": 0,
+        "electricalRemovableBatteryBikes": 0
+      },
+      "capacity": 8
+    },
+    "overflowStands": null
+  },
+  {
+    "number": 30,
+    "contractName": "ljubljana",
+    "name": "LIDL - VOJKOVA CESTA",
+    "address": "",
+    "position": {
+      "latitude": 46.07589,
+      "longitude": 14.52011
+    },
+    "banking": false,
+    "bonus": false,
+    "status": "OPEN",
+    "lastUpdate": "2024-01-14T22:37:42Z",
+    "connected": true,
+    "overflow": false,
+    "shape": null,
+    "totalStands": {
+      "availabilities": {
+        "bikes": 16,
+        "stands": 4,
+        "mechanicalBikes": 16,
+        "electricalBikes": 0,
+        "electricalInternalBatteryBikes": 0,
+        "electricalRemovableBatteryBikes": 0
+      },
+      "capacity": 20
+    },
+    "mainStands": {
+      "availabilities": {
+        "bikes": 16,
+        "stands": 4,
+        "mechanicalBikes": 16,
+        "electricalBikes": 0,
+        "electricalInternalBatteryBikes": 0,
+        "electricalRemovableBatteryBikes": 0
+      },
+      "capacity": 20
+    },
+    "overflowStands": null
+  },
+  {
+    "number": 55,
+    "contractName": "ljubljana",
+    "name": "POLJANSKA-POTOČNIKOVA",
+    "address": "Poljanska cesta 50",
+    "position": {
+      "latitude": 46.048982,
+      "longitude": 14.522709
+    },
+    "banking": false,
+    "bonus": false,
+    "status": "OPEN",
+    "lastUpdate": "2024-01-14T22:37:42Z",
+    "connected": true,
+    "overflow": false,
+    "shape": null,
+    "totalStands": {
+      "availabilities": {
+        "bikes": 5,
+        "stands": 15,
+        "mechanicalBikes": 5,
+        "electricalBikes": 0,
+        "electricalInternalBatteryBikes": 0,
+        "electricalRemovableBatteryBikes": 0
+      },
+      "capacity": 20
+    },
+    "mainStands": {
+      "availabilities": {
+        "bikes": 5,
+        "stands": 15,
+        "mechanicalBikes": 5,
+        "electricalBikes": 0,
+        "electricalInternalBatteryBikes": 0,
+        "electricalRemovableBatteryBikes": 0
+      },
+      "capacity": 20
+    },
+    "overflowStands": null
+  },
+  {
+    "number": 57,
+    "contractName": "ljubljana",
+    "name": "POVŠETOVA-GRABLOVIČEVA",
+    "address": "Grabloviceva ulica 60",
+    "position": {
+      "latitude": 46.051863,
+      "longitude": 14.530349
+    },
+    "banking": false,
+    "bonus": false,
+    "status": "OPEN",
+    "lastUpdate": "2024-01-14T22:37:08Z",
+    "connected": true,
+    "overflow": false,
+    "shape": null,
+    "totalStands": {
+      "availabilities": {
+        "bikes": 7,
+        "stands": 12,
+        "mechanicalBikes": 7,
+        "electricalBikes": 0,
+        "electricalInternalBatteryBikes": 0,
+        "electricalRemovableBatteryBikes": 0
+      },
+      "capacity": 19
+    },
+    "mainStands": {
+      "availabilities": {
+        "bikes": 7,
+        "stands": 12,
+        "mechanicalBikes": 7,
+        "electricalBikes": 0,
+        "electricalInternalBatteryBikes": 0,
+        "electricalRemovableBatteryBikes": 0
+      },
+      "capacity": 19
+    },
+    "overflowStands": null
+  },
+  {
+    "number": 12,
+    "contractName": "ljubljana",
+    "name": "PARK NAVJE-ŽELEZNA CESTA",
+    "address": "Železna cesta 18",
+    "position": {
+      "latitude": 46.06361,
+      "longitude": 14.51315
+    },
+    "banking": false,
+    "bonus": false,
+    "status": "OPEN",
+    "lastUpdate": "2024-01-14T22:39:23Z",
+    "connected": true,
+    "overflow": false,
+    "shape": null,
+    "totalStands": {
+      "availabilities": {
+        "bikes": 5,
+        "stands": 15,
+        "mechanicalBikes": 5,
+        "electricalBikes": 0,
+        "electricalInternalBatteryBikes": 0,
+        "electricalRemovableBatteryBikes": 0
+      },
+      "capacity": 20
+    },
+    "mainStands": {
+      "availabilities": {
+        "bikes": 5,
+        "stands": 15,
+        "mechanicalBikes": 5,
+        "electricalBikes": 0,
+        "electricalInternalBatteryBikes": 0,
+        "electricalRemovableBatteryBikes": 0
+      },
+      "capacity": 20
+    },
+    "overflowStands": null
+  },
+  {
+    "number": 71,
+    "contractName": "ljubljana",
+    "name": "ZALOG",
+    "address": "Zaloška cesta",
+    "position": {
+      "latitude": 46.06043,
+      "longitude": 14.613797
+    },
+    "banking": false,
+    "bonus": false,
+    "status": "OPEN",
+    "lastUpdate": "2024-01-14T22:37:46Z",
+    "connected": true,
+    "overflow": false,
+    "shape": null,
+    "totalStands": {
+      "availabilities": {
+        "bikes": 5,
+        "stands": 15,
+        "mechanicalBikes": 5,
+        "electricalBikes": 0,
+        "electricalInternalBatteryBikes": 0,
+        "electricalRemovableBatteryBikes": 0
+      },
+      "capacity": 20
+    },
+    "mainStands": {
+      "availabilities": {
+        "bikes": 5,
+        "stands": 15,
+        "mechanicalBikes": 5,
+        "electricalBikes": 0,
+        "electricalInternalBatteryBikes": 0,
+        "electricalRemovableBatteryBikes": 0
+      },
+      "capacity": 20
+    },
+    "overflowStands": null
+  },
+  {
+    "number": 53,
+    "contractName": "ljubljana",
+    "name": "CESTA NA ROŽNIK",
+    "address": "Cesta na Rožnik 1",
+    "position": {
+      "latitude": 46.053241,
+      "longitude": 14.486206
+    },
+    "banking": false,
+    "bonus": false,
+    "status": "OPEN",
+    "lastUpdate": "2024-01-14T22:31:09Z",
+    "connected": true,
+    "overflow": false,
+    "shape": null,
+    "totalStands": {
+      "availabilities": {
+        "bikes": 5,
+        "stands": 15,
+        "mechanicalBikes": 5,
+        "electricalBikes": 0,
+        "electricalInternalBatteryBikes": 0,
+        "electricalRemovableBatteryBikes": 0
+      },
+      "capacity": 20
+    },
+    "mainStands": {
+      "availabilities": {
+        "bikes": 5,
+        "stands": 15,
+        "mechanicalBikes": 5,
+        "electricalBikes": 0,
+        "electricalInternalBatteryBikes": 0,
+        "electricalRemovableBatteryBikes": 0
+      },
+      "capacity": 20
+    },
+    "overflowStands": null
+  },
+  {
+    "number": 48,
+    "contractName": "ljubljana",
+    "name": "HOFER-KAJUHOVA",
+    "address": "Kajuhova ulica 42",
+    "position": {
+      "latitude": 46.056405,
+      "longitude": 14.540901
+    },
+    "banking": false,
+    "bonus": false,
+    "status": "OPEN",
+    "lastUpdate": "2024-01-14T22:39:19Z",
+    "connected": true,
+    "overflow": false,
+    "shape": null,
+    "totalStands": {
+      "availabilities": {
+        "bikes": 12,
+        "stands": 8,
+        "mechanicalBikes": 12,
+        "electricalBikes": 0,
+        "electricalInternalBatteryBikes": 0,
+        "electricalRemovableBatteryBikes": 0
+      },
+      "capacity": 20
+    },
+    "mainStands": {
+      "availabilities": {
+        "bikes": 12,
+        "stands": 8,
+        "mechanicalBikes": 12,
+        "electricalBikes": 0,
+        "electricalInternalBatteryBikes": 0,
+        "electricalRemovableBatteryBikes": 0
+      },
+      "capacity": 20
+    },
+    "overflowStands": null
+  },
+  {
+    "number": 27,
+    "contractName": "ljubljana",
+    "name": "DUNAJSKA C.-PS PETROL",
+    "address": "Dunajska cesta 50",
+    "position": {
+      "latitude": 46.065136,
+      "longitude": 14.509112
+    },
+    "banking": false,
+    "bonus": false,
+    "status": "OPEN",
+    "lastUpdate": "2024-01-14T22:39:04Z",
+    "connected": true,
+    "overflow": false,
+    "shape": null,
+    "totalStands": {
+      "availabilities": {
+        "bikes": 14,
+        "stands": 6,
+        "mechanicalBikes": 14,
+        "electricalBikes": 0,
+        "electricalInternalBatteryBikes": 0,
+        "electricalRemovableBatteryBikes": 0
+      },
+      "capacity": 20
+    },
+    "mainStands": {
+      "availabilities": {
+        "bikes": 14,
+        "stands": 6,
+        "mechanicalBikes": 14,
+        "electricalBikes": 0,
+        "electricalInternalBatteryBikes": 0,
+        "electricalRemovableBatteryBikes": 0
+      },
+      "capacity": 20
+    },
+    "overflowStands": null
+  },
+  {
+    "number": 69,
+    "contractName": "ljubljana",
+    "name": "STUDENEC",
+    "address": "Zaloška cesta",
+    "position": {
+      "latitude": 46.054615,
+      "longitude": 14.576031
+    },
+    "banking": false,
+    "bonus": false,
+    "status": "OPEN",
+    "lastUpdate": "2024-01-14T22:38:20Z",
+    "connected": true,
+    "overflow": false,
+    "shape": null,
+    "totalStands": {
+      "availabilities": {
+        "bikes": 8,
+        "stands": 12,
+        "mechanicalBikes": 8,
+        "electricalBikes": 0,
+        "electricalInternalBatteryBikes": 0,
+        "electricalRemovableBatteryBikes": 0
+      },
+      "capacity": 20
+    },
+    "mainStands": {
+      "availabilities": {
+        "bikes": 8,
+        "stands": 12,
+        "mechanicalBikes": 8,
+        "electricalBikes": 0,
+        "electricalInternalBatteryBikes": 0,
+        "electricalRemovableBatteryBikes": 0
+      },
+      "capacity": 20
+    },
+    "overflowStands": null
+  },
+  {
+    "number": 14,
+    "contractName": "ljubljana",
+    "name": "PARKIRIŠČE NUK 2-FF",
+    "address": "Zoisova cesta 2",
+    "position": {
+      "latitude": 46.046377,
+      "longitude": 14.501256
+    },
+    "banking": false,
+    "bonus": false,
+    "status": "OPEN",
+    "lastUpdate": "2024-01-14T22:38:27Z",
+    "connected": true,
+    "overflow": false,
+    "shape": null,
+    "totalStands": {
+      "availabilities": {
+        "bikes": 0,
+        "stands": 20,
+        "mechanicalBikes": 0,
+        "electricalBikes": 0,
+        "electricalInternalBatteryBikes": 0,
+        "electricalRemovableBatteryBikes": 0
+      },
+      "capacity": 20
+    },
+    "mainStands": {
+      "availabilities": {
+        "bikes": 0,
+        "stands": 20,
+        "mechanicalBikes": 0,
+        "electricalBikes": 0,
+        "electricalInternalBatteryBikes": 0,
+        "electricalRemovableBatteryBikes": 0
+      },
+      "capacity": 20
+    },
+    "overflowStands": null
+  },
+  {
+    "number": 42,
+    "contractName": "ljubljana",
+    "name": "BRATOVŠEVA PLOŠČAD",
+    "address": "Dunajska 211",
+    "position": {
+      "latitude": 46.08929,
+      "longitude": 14.513751
+    },
+    "banking": false,
+    "bonus": false,
+    "status": "OPEN",
+    "lastUpdate": "2024-01-14T22:37:14Z",
+    "connected": true,
+    "overflow": false,
+    "shape": null,
+    "totalStands": {
+      "availabilities": {
+        "bikes": 6,
+        "stands": 14,
+        "mechanicalBikes": 6,
+        "electricalBikes": 0,
+        "electricalInternalBatteryBikes": 0,
+        "electricalRemovableBatteryBikes": 0
+      },
+      "capacity": 20
+    },
+    "mainStands": {
+      "availabilities": {
+        "bikes": 6,
+        "stands": 14,
+        "mechanicalBikes": 6,
+        "electricalBikes": 0,
+        "electricalInternalBatteryBikes": 0,
+        "electricalRemovableBatteryBikes": 0
+      },
+      "capacity": 20
+    },
+    "overflowStands": null
+  },
+  {
+    "number": 3,
+    "contractName": "ljubljana",
+    "name": "KONGRESNI TRG-ŠUBIČEVA ULICA",
+    "address": "Kongresni trg 3",
+    "position": {
+      "latitude": 46.050388,
+      "longitude": 14.504623
+    },
+    "banking": false,
+    "bonus": false,
+    "status": "OPEN",
+    "lastUpdate": "2024-01-14T22:32:33Z",
+    "connected": true,
+    "overflow": false,
+    "shape": null,
+    "totalStands": {
+      "availabilities": {
+        "bikes": 17,
+        "stands": 3,
+        "mechanicalBikes": 17,
+        "electricalBikes": 0,
+        "electricalInternalBatteryBikes": 0,
+        "electricalRemovableBatteryBikes": 0
+      },
+      "capacity": 20
+    },
+    "mainStands": {
+      "availabilities": {
+        "bikes": 17,
+        "stands": 3,
+        "mechanicalBikes": 17,
+        "electricalBikes": 0,
+        "electricalInternalBatteryBikes": 0,
+        "electricalRemovableBatteryBikes": 0
+      },
+      "capacity": 20
+    },
+    "overflowStands": null
+  },
+  {
+    "number": 43,
+    "contractName": "ljubljana",
+    "name": "BS4-STOŽICE",
+    "address": "Dunajska 186",
+    "position": {
+      "latitude": 46.086761,
+      "longitude": 14.514151
+    },
+    "banking": false,
+    "bonus": false,
+    "status": "OPEN",
+    "lastUpdate": "2024-01-14T22:37:05Z",
+    "connected": true,
+    "overflow": false,
+    "shape": null,
+    "totalStands": {
+      "availabilities": {
+        "bikes": 20,
+        "stands": 0,
+        "mechanicalBikes": 20,
+        "electricalBikes": 0,
+        "electricalInternalBatteryBikes": 0,
+        "electricalRemovableBatteryBikes": 0
+      },
+      "capacity": 20
+    },
+    "mainStands": {
+      "availabilities": {
+        "bikes": 20,
+        "stands": 0,
+        "mechanicalBikes": 20,
+        "electricalBikes": 0,
+        "electricalInternalBatteryBikes": 0,
+        "electricalRemovableBatteryBikes": 0
+      },
+      "capacity": 20
+    },
+    "overflowStands": null
+  },
+  {
+    "number": 78,
+    "contractName": "ljubljana",
+    "name": "GERBIČEVA - ŠPORTNI PARK SVOBODA",
+    "address": "Gerbičeva ulica 61",
+    "position": {
+      "latitude": 46.039384,
+      "longitude": 14.485458
+    },
+    "banking": false,
+    "bonus": false,
+    "status": "OPEN",
+    "lastUpdate": "2024-01-14T22:38:55Z",
+    "connected": true,
+    "overflow": false,
+    "shape": null,
+    "totalStands": {
+      "availabilities": {
+        "bikes": 14,
+        "stands": 6,
+        "mechanicalBikes": 14,
+        "electricalBikes": 0,
+        "electricalInternalBatteryBikes": 0,
+        "electricalRemovableBatteryBikes": 0
+      },
+      "capacity": 20
+    },
+    "mainStands": {
+      "availabilities": {
+        "bikes": 14,
+        "stands": 6,
+        "mechanicalBikes": 14,
+        "electricalBikes": 0,
+        "electricalInternalBatteryBikes": 0,
+        "electricalRemovableBatteryBikes": 0
+      },
+      "capacity": 20
+    },
+    "overflowStands": null
+  },
+  {
+    "number": 52,
+    "contractName": "ljubljana",
+    "name": "ŽIVALSKI VRT",
+    "address": "Večna pot 70",
+    "position": {
+      "latitude": 46.052454,
+      "longitude": 14.472149
+    },
+    "banking": false,
+    "bonus": false,
+    "status": "OPEN",
+    "lastUpdate": "2024-01-14T22:36:09Z",
+    "connected": true,
+    "overflow": false,
+    "shape": null,
+    "totalStands": {
+      "availabilities": {
+        "bikes": 6,
+        "stands": 14,
+        "mechanicalBikes": 6,
+        "electricalBikes": 0,
+        "electricalInternalBatteryBikes": 0,
+        "electricalRemovableBatteryBikes": 0
+      },
+      "capacity": 20
+    },
+    "mainStands": {
+      "availabilities": {
+        "bikes": 6,
+        "stands": 14,
+        "mechanicalBikes": 6,
+        "electricalBikes": 0,
+        "electricalInternalBatteryBikes": 0,
+        "electricalRemovableBatteryBikes": 0
+      },
+      "capacity": 20
+    },
+    "overflowStands": null
+  },
+  {
+    "number": 82,
+    "contractName": "ljubljana",
+    "name": "VOKA - SLOVENČEVA",
+    "address": "Vodovodna cesta 90",
+    "position": {
+      "latitude": 46.075207,
+      "longitude": 14.504734
+    },
+    "banking": false,
+    "bonus": false,
+    "status": "OPEN",
+    "lastUpdate": "2024-01-14T22:37:33Z",
+    "connected": true,
+    "overflow": false,
+    "shape": null,
+    "totalStands": {
+      "availabilities": {
+        "bikes": 5,
+        "stands": 15,
+        "mechanicalBikes": 5,
+        "electricalBikes": 0,
+        "electricalInternalBatteryBikes": 0,
+        "electricalRemovableBatteryBikes": 0
+      },
+      "capacity": 20
+    },
+    "mainStands": {
+      "availabilities": {
+        "bikes": 5,
+        "stands": 15,
+        "mechanicalBikes": 5,
+        "electricalBikes": 0,
+        "electricalInternalBatteryBikes": 0,
+        "electricalRemovableBatteryBikes": 0
+      },
+      "capacity": 20
+    },
+    "overflowStands": null
+  },
+  {
+    "number": 35,
+    "contractName": "ljubljana",
+    "name": "BTC CITY/DVORANA A",
+    "address": "BTC City/Dvorana A",
+    "position": {
+      "latitude": 46.065297,
+      "longitude": 14.543996
+    },
+    "banking": false,
+    "bonus": false,
+    "status": "OPEN",
+    "lastUpdate": "2024-01-14T22:38:38Z",
+    "connected": true,
+    "overflow": false,
+    "shape": null,
+    "totalStands": {
+      "availabilities": {
+        "bikes": 18,
+        "stands": 2,
+        "mechanicalBikes": 18,
+        "electricalBikes": 0,
+        "electricalInternalBatteryBikes": 0,
+        "electricalRemovableBatteryBikes": 0
+      },
+      "capacity": 20
+    },
+    "mainStands": {
+      "availabilities": {
+        "bikes": 18,
+        "stands": 2,
+        "mechanicalBikes": 18,
+        "electricalBikes": 0,
+        "electricalInternalBatteryBikes": 0,
+        "electricalRemovableBatteryBikes": 0
+      },
+      "capacity": 20
+    },
+    "overflowStands": null
+  },
+  {
+    "number": 37,
+    "contractName": "ljubljana",
+    "name": "TRNOVO",
+    "address": "TRNOVO",
+    "position": {
+      "latitude": 46.03784,
+      "longitude": 14.50001
+    },
+    "banking": false,
+    "bonus": false,
+    "status": "OPEN",
+    "lastUpdate": "2024-01-14T22:39:14Z",
+    "connected": true,
+    "overflow": false,
+    "shape": null,
+    "totalStands": {
+      "availabilities": {
+        "bikes": 12,
+        "stands": 8,
+        "mechanicalBikes": 12,
+        "electricalBikes": 0,
+        "electricalInternalBatteryBikes": 0,
+        "electricalRemovableBatteryBikes": 0
+      },
+      "capacity": 20
+    },
+    "mainStands": {
+      "availabilities": {
+        "bikes": 12,
+        "stands": 8,
+        "mechanicalBikes": 12,
+        "electricalBikes": 0,
+        "electricalInternalBatteryBikes": 0,
+        "electricalRemovableBatteryBikes": 0
+      },
+      "capacity": 20
+    },
+    "overflowStands": null
+  },
+  {
+    "number": 38,
+    "contractName": "ljubljana",
+    "name": "P+R BARJE",
+    "address": "P+R BARJE",
+    "position": {
+      "latitude": 46.02749,
+      "longitude": 14.49958
+    },
+    "banking": false,
+    "bonus": false,
+    "status": "OPEN",
+    "lastUpdate": "2024-01-14T22:36:55Z",
+    "connected": true,
+    "overflow": false,
+    "shape": null,
+    "totalStands": {
+      "availabilities": {
+        "bikes": 10,
+        "stands": 10,
+        "mechanicalBikes": 10,
+        "electricalBikes": 0,
+        "electricalInternalBatteryBikes": 0,
+        "electricalRemovableBatteryBikes": 0
+      },
+      "capacity": 20
+    },
+    "mainStands": {
+      "availabilities": {
+        "bikes": 10,
+        "stands": 10,
+        "mechanicalBikes": 10,
+        "electricalBikes": 0,
+        "electricalInternalBatteryBikes": 0,
+        "electricalRemovableBatteryBikes": 0
+      },
+      "capacity": 20
+    },
+    "overflowStands": null
+  },
+  {
+    "number": 26,
+    "contractName": "ljubljana",
+    "name": "ROŽNA DOLINA-ŠKRABČEVA UL.",
+    "address": "Škrabčeva ulica 2",
+    "position": {
+      "latitude": 46.051439,
+      "longitude": 14.49273
+    },
+    "banking": false,
+    "bonus": false,
+    "status": "OPEN",
+    "lastUpdate": "2024-01-14T22:39:40Z",
+    "connected": true,
+    "overflow": false,
+    "shape": null,
+    "totalStands": {
+      "availabilities": {
+        "bikes": 13,
+        "stands": 5,
+        "mechanicalBikes": 13,
+        "electricalBikes": 0,
+        "electricalInternalBatteryBikes": 0,
+        "electricalRemovableBatteryBikes": 0
+      },
+      "capacity": 18
+    },
+    "mainStands": {
+      "availabilities": {
+        "bikes": 13,
+        "stands": 5,
+        "mechanicalBikes": 13,
+        "electricalBikes": 0,
+        "electricalInternalBatteryBikes": 0,
+        "electricalRemovableBatteryBikes": 0
+      },
+      "capacity": 18
+    },
+    "overflowStands": null
+  },
+  {
+    "number": 21,
+    "contractName": "ljubljana",
+    "name": "KINO ŠIŠKA",
+    "address": "Celovška cesta 111c",
+    "position": {
+      "latitude": 46.06928,
+      "longitude": 14.48971
+    },
+    "banking": false,
+    "bonus": false,
+    "status": "OPEN",
+    "lastUpdate": "2024-01-14T22:39:52Z",
+    "connected": true,
+    "overflow": false,
+    "shape": null,
+    "totalStands": {
+      "availabilities": {
+        "bikes": 5,
+        "stands": 21,
+        "mechanicalBikes": 5,
+        "electricalBikes": 0,
+        "electricalInternalBatteryBikes": 0,
+        "electricalRemovableBatteryBikes": 0
+      },
+      "capacity": 26
+    },
+    "mainStands": {
+      "availabilities": {
+        "bikes": 5,
+        "stands": 21,
+        "mechanicalBikes": 5,
+        "electricalBikes": 0,
+        "electricalInternalBatteryBikes": 0,
+        "electricalRemovableBatteryBikes": 0
+      },
+      "capacity": 26
+    },
+    "overflowStands": null
+  },
+  {
+    "number": 49,
+    "contractName": "ljubljana",
+    "name": "BRODARJEV TRG",
+    "address": "Nove Fuzine 8",
+    "position": {
+      "latitude": 46.054398,
+      "longitude": 14.553319
+    },
+    "banking": false,
+    "bonus": false,
+    "status": "OPEN",
+    "lastUpdate": "2024-01-14T22:36:33Z",
+    "connected": true,
+    "overflow": false,
+    "shape": null,
+    "totalStands": {
+      "availabilities": {
+        "bikes": 20,
+        "stands": 0,
+        "mechanicalBikes": 20,
+        "electricalBikes": 0,
+        "electricalInternalBatteryBikes": 0,
+        "electricalRemovableBatteryBikes": 0
+      },
+      "capacity": 20
+    },
+    "mainStands": {
+      "availabilities": {
+        "bikes": 20,
+        "stands": 0,
+        "mechanicalBikes": 20,
+        "electricalBikes": 0,
+        "electricalInternalBatteryBikes": 0,
+        "electricalRemovableBatteryBikes": 0
+      },
+      "capacity": 20
+    },
+    "overflowStands": null
+  },
+  {
+    "number": 24,
+    "contractName": "ljubljana",
+    "name": "ZALOŠKA C.-GRABLOVIČEVA C.",
+    "address": "Zaloška cesta 16",
+    "position": {
+      "latitude": 46.05441,
+      "longitude": 14.52978
+    },
+    "banking": false,
+    "bonus": false,
+    "status": "OPEN",
+    "lastUpdate": "2024-01-14T22:38:46Z",
+    "connected": true,
+    "overflow": false,
+    "shape": null,
+    "totalStands": {
+      "availabilities": {
+        "bikes": 6,
+        "stands": 10,
+        "mechanicalBikes": 6,
+        "electricalBikes": 0,
+        "electricalInternalBatteryBikes": 0,
+        "electricalRemovableBatteryBikes": 0
+      },
+      "capacity": 16
+    },
+    "mainStands": {
+      "availabilities": {
+        "bikes": 6,
+        "stands": 10,
+        "mechanicalBikes": 6,
+        "electricalBikes": 0,
+        "electricalInternalBatteryBikes": 0,
+        "electricalRemovableBatteryBikes": 0
+      },
+      "capacity": 16
+    },
+    "overflowStands": null
+  },
+  {
+    "number": 79,
+    "contractName": "ljubljana",
+    "name": "DOLENJSKA C. - STRELIŠČE",
+    "address": "Dolenjska c. 11",
+    "position": {
+      "latitude": 46.038866,
+      "longitude": 14.517605
+    },
+    "banking": false,
+    "bonus": false,
+    "status": "OPEN",
+    "lastUpdate": "2024-01-14T22:37:35Z",
+    "connected": true,
+    "overflow": false,
+    "shape": null,
+    "totalStands": {
+      "availabilities": {
+        "bikes": 2,
+        "stands": 18,
+        "mechanicalBikes": 2,
+        "electricalBikes": 0,
+        "electricalInternalBatteryBikes": 0,
+        "electricalRemovableBatteryBikes": 0
+      },
+      "capacity": 20
+    },
+    "mainStands": {
+      "availabilities": {
+        "bikes": 2,
+        "stands": 18,
+        "mechanicalBikes": 2,
+        "electricalBikes": 0,
+        "electricalInternalBatteryBikes": 0,
+        "electricalRemovableBatteryBikes": 0
+      },
+      "capacity": 20
+    },
+    "overflowStands": null
+  },
+  {
+    "number": 47,
+    "contractName": "ljubljana",
+    "name": "ŠTEPANJSKO NASELJE 1-JAKČEVA ULICA",
+    "address": "Jakčeva ulica 37",
+    "position": {
+      "latitude": 46.053047,
+      "longitude": 14.545125
+    },
+    "banking": false,
+    "bonus": false,
+    "status": "OPEN",
+    "lastUpdate": "2024-01-14T22:37:58Z",
+    "connected": true,
+    "overflow": false,
+    "shape": null,
+    "totalStands": {
+      "availabilities": {
+        "bikes": 16,
+        "stands": 3,
+        "mechanicalBikes": 16,
+        "electricalBikes": 0,
+        "electricalInternalBatteryBikes": 0,
+        "electricalRemovableBatteryBikes": 0
+      },
+      "capacity": 19
+    },
+    "mainStands": {
+      "availabilities": {
+        "bikes": 16,
+        "stands": 3,
+        "mechanicalBikes": 16,
+        "electricalBikes": 0,
+        "electricalInternalBatteryBikes": 0,
+        "electricalRemovableBatteryBikes": 0
+      },
+      "capacity": 19
+    },
+    "overflowStands": null
+  },
+  {
+    "number": 75,
+    "contractName": "ljubljana",
+    "name": "SOSESKA NOVO BRDO",
+    "address": "Pot rdečega križa",
+    "position": {
+      "latitude": 46.045617,
+      "longitude": 14.462281
+    },
+    "banking": false,
+    "bonus": false,
+    "status": "OPEN",
+    "lastUpdate": "2024-01-14T22:38:46Z",
+    "connected": true,
+    "overflow": false,
+    "shape": null,
+    "totalStands": {
+      "availabilities": {
+        "bikes": 6,
+        "stands": 14,
+        "mechanicalBikes": 6,
+        "electricalBikes": 0,
+        "electricalInternalBatteryBikes": 0,
+        "electricalRemovableBatteryBikes": 0
+      },
+      "capacity": 20
+    },
+    "mainStands": {
+      "availabilities": {
+        "bikes": 6,
+        "stands": 14,
+        "mechanicalBikes": 6,
+        "electricalBikes": 0,
+        "electricalInternalBatteryBikes": 0,
+        "electricalRemovableBatteryBikes": 0
+      },
+      "capacity": 20
+    },
+    "overflowStands": null
+  },
+  {
+    "number": 58,
+    "contractName": "ljubljana",
+    "name": "TRŽNICA KOSEZE",
+    "address": "Vodnikova cesta 187",
+    "position": {
+      "latitude": 46.074315,
+      "longitude": 14.475483
+    },
+    "banking": false,
+    "bonus": false,
+    "status": "OPEN",
+    "lastUpdate": "2024-01-14T22:36:51Z",
+    "connected": true,
+    "overflow": false,
+    "shape": null,
+    "totalStands": {
+      "availabilities": {
+        "bikes": 1,
+        "stands": 17,
+        "mechanicalBikes": 1,
+        "electricalBikes": 0,
+        "electricalInternalBatteryBikes": 0,
+        "electricalRemovableBatteryBikes": 0
+      },
+      "capacity": 18
+    },
+    "mainStands": {
+      "availabilities": {
+        "bikes": 1,
+        "stands": 17,
+        "mechanicalBikes": 1,
+        "electricalBikes": 0,
+        "electricalInternalBatteryBikes": 0,
+        "electricalRemovableBatteryBikes": 0
+      },
+      "capacity": 18
+    },
+    "overflowStands": null
+  },
+  {
+    "number": 62,
+    "contractName": "ljubljana",
+    "name": "ALEJA - CELOVŠKA CESTA",
+    "address": "Aleja - Celovška Cesta",
+    "position": {
+      "latitude": 46.077302,
+      "longitude": 14.482581
+    },
+    "banking": false,
+    "bonus": false,
+    "status": "OPEN",
+    "lastUpdate": "2024-01-14T22:38:40Z",
+    "connected": true,
+    "overflow": false,
+    "shape": null,
+    "totalStands": {
+      "availabilities": {
+        "bikes": 15,
+        "stands": 5,
+        "mechanicalBikes": 15,
+        "electricalBikes": 0,
+        "electricalInternalBatteryBikes": 0,
+        "electricalRemovableBatteryBikes": 0
+      },
+      "capacity": 20
+    },
+    "mainStands": {
+      "availabilities": {
+        "bikes": 15,
+        "stands": 5,
+        "mechanicalBikes": 15,
+        "electricalBikes": 0,
+        "electricalInternalBatteryBikes": 0,
+        "electricalRemovableBatteryBikes": 0
+      },
+      "capacity": 20
+    },
+    "overflowStands": null
+  },
+  {
+    "number": 33,
+    "contractName": "ljubljana",
+    "name": "MERCATOR CENTER ŠIŠKA",
+    "address": "Cesta Ljubljanske brigade 33",
+    "position": {
+      "latitude": 46.087079,
+      "longitude": 14.475439
+    },
+    "banking": false,
+    "bonus": false,
+    "status": "OPEN",
+    "lastUpdate": "2024-01-14T22:38:51Z",
+    "connected": true,
+    "overflow": false,
+    "shape": null,
+    "totalStands": {
+      "availabilities": {
+        "bikes": 12,
+        "stands": 10,
+        "mechanicalBikes": 12,
+        "electricalBikes": 0,
+        "electricalInternalBatteryBikes": 0,
+        "electricalRemovableBatteryBikes": 0
+      },
+      "capacity": 22
+    },
+    "mainStands": {
+      "availabilities": {
+        "bikes": 12,
+        "stands": 10,
+        "mechanicalBikes": 12,
+        "electricalBikes": 0,
+        "electricalInternalBatteryBikes": 0,
+        "electricalRemovableBatteryBikes": 0
+      },
+      "capacity": 22
+    },
+    "overflowStands": null
+  },
+  {
+    "number": 16,
+    "contractName": "ljubljana",
+    "name": "GH ŠENTPETER-NJEGOŠEVA C.",
+    "address": "Zaloška cesta 1",
+    "position": {
+      "latitude": 46.05257,
+      "longitude": 14.51928
+    },
+    "banking": false,
+    "bonus": false,
+    "status": "OPEN",
+    "lastUpdate": "2024-01-14T22:38:01Z",
+    "connected": true,
+    "overflow": false,
+    "shape": null,
+    "totalStands": {
+      "availabilities": {
+        "bikes": 6,
+        "stands": 18,
+        "mechanicalBikes": 6,
+        "electricalBikes": 0,
+        "electricalInternalBatteryBikes": 0,
+        "electricalRemovableBatteryBikes": 0
+      },
+      "capacity": 24
+    },
+    "mainStands": {
+      "availabilities": {
+        "bikes": 6,
+        "stands": 18,
+        "mechanicalBikes": 6,
+        "electricalBikes": 0,
+        "electricalInternalBatteryBikes": 0,
+        "electricalRemovableBatteryBikes": 0
+      },
+      "capacity": 24
+    },
+    "overflowStands": null
+  },
+  {
+    "number": 84,
+    "contractName": "ljubljana",
+    "name": "HOFER - POLJE",
+    "address": "Polje 51",
+    "position": {
+      "latitude": 46.053718,
+      "longitude": 14.589284
+    },
+    "banking": false,
+    "bonus": false,
+    "status": "OPEN",
+    "lastUpdate": "2024-01-14T22:38:54Z",
+    "connected": true,
+    "overflow": false,
+    "shape": null,
+    "totalStands": {
+      "availabilities": {
+        "bikes": 4,
+        "stands": 16,
+        "mechanicalBikes": 4,
+        "electricalBikes": 0,
+        "electricalInternalBatteryBikes": 0,
+        "electricalRemovableBatteryBikes": 0
+      },
+      "capacity": 20
+    },
+    "mainStands": {
+      "availabilities": {
+        "bikes": 4,
+        "stands": 16,
+        "mechanicalBikes": 4,
+        "electricalBikes": 0,
+        "electricalInternalBatteryBikes": 0,
+        "electricalRemovableBatteryBikes": 0
+      },
+      "capacity": 20
+    },
+    "overflowStands": null
+  },
+  {
+    "number": 65,
+    "contractName": "ljubljana",
+    "name": "VIŠKO POLJE",
+    "address": "Cesta na Brdo",
+    "position": {
+      "latitude": 46.046189,
+      "longitude": 14.469037
+    },
+    "banking": false,
+    "bonus": false,
+    "status": "OPEN",
+    "lastUpdate": "2024-01-14T22:38:12Z",
+    "connected": true,
+    "overflow": false,
+    "shape": null,
+    "totalStands": {
+      "availabilities": {
+        "bikes": 2,
+        "stands": 18,
+        "mechanicalBikes": 2,
+        "electricalBikes": 0,
+        "electricalInternalBatteryBikes": 0,
+        "electricalRemovableBatteryBikes": 0
+      },
+      "capacity": 20
+    },
+    "mainStands": {
+      "availabilities": {
+        "bikes": 2,
+        "stands": 18,
+        "mechanicalBikes": 2,
+        "electricalBikes": 0,
+        "electricalInternalBatteryBikes": 0,
+        "electricalRemovableBatteryBikes": 0
+      },
+      "capacity": 20
+    },
+    "overflowStands": null
+  },
+  {
+    "number": 40,
+    "contractName": "ljubljana",
+    "name": "BONIFACIJA",
+    "address": "Tržaška 123",
+    "position": {
+      "latitude": 46.039641,
+      "longitude": 14.472664
+    },
+    "banking": false,
+    "bonus": false,
+    "status": "OPEN",
+    "lastUpdate": "2024-01-14T22:39:42Z",
+    "connected": true,
+    "overflow": false,
+    "shape": null,
+    "totalStands": {
+      "availabilities": {
+        "bikes": 15,
+        "stands": 6,
+        "mechanicalBikes": 15,
+        "electricalBikes": 0,
+        "electricalInternalBatteryBikes": 0,
+        "electricalRemovableBatteryBikes": 0
+      },
+      "capacity": 21
+    },
+    "mainStands": {
+      "availabilities": {
+        "bikes": 15,
+        "stands": 6,
+        "mechanicalBikes": 15,
+        "electricalBikes": 0,
+        "electricalInternalBatteryBikes": 0,
+        "electricalRemovableBatteryBikes": 0
+      },
+      "capacity": 21
+    },
+    "overflowStands": null
+  },
+  {
+    "number": 39,
+    "contractName": "ljubljana",
+    "name": "P + R DOLGI MOST",
+    "address": "P+R Dolgi most",
+    "position": {
+      "latitude": 46.037003,
+      "longitude": 14.465229
+    },
+    "banking": false,
+    "bonus": false,
+    "status": "OPEN",
+    "lastUpdate": "2024-01-14T22:39:49Z",
+    "connected": true,
+    "overflow": false,
+    "shape": null,
+    "totalStands": {
+      "availabilities": {
+        "bikes": 7,
+        "stands": 13,
+        "mechanicalBikes": 7,
+        "electricalBikes": 0,
+        "electricalInternalBatteryBikes": 0,
+        "electricalRemovableBatteryBikes": 0
+      },
+      "capacity": 20
+    },
+    "mainStands": {
+      "availabilities": {
+        "bikes": 7,
+        "stands": 13,
+        "mechanicalBikes": 7,
+        "electricalBikes": 0,
+        "electricalInternalBatteryBikes": 0,
+        "electricalRemovableBatteryBikes": 0
+      },
+      "capacity": 20
+    },
+    "overflowStands": null
+  },
+  {
+    "number": 67,
+    "contractName": "ljubljana",
+    "name": "DRAVLJE",
+    "address": "Celovška cesta",
+    "position": {
+      "latitude": 46.07984,
+      "longitude": 14.479952
+    },
+    "banking": false,
+    "bonus": false,
+    "status": "OPEN",
+    "lastUpdate": "2024-01-14T22:36:38Z",
+    "connected": true,
+    "overflow": false,
+    "shape": null,
+    "totalStands": {
+      "availabilities": {
+        "bikes": 1,
+        "stands": 19,
+        "mechanicalBikes": 1,
+        "electricalBikes": 0,
+        "electricalInternalBatteryBikes": 0,
+        "electricalRemovableBatteryBikes": 0
+      },
+      "capacity": 20
+    },
+    "mainStands": {
+      "availabilities": {
+        "bikes": 1,
+        "stands": 19,
+        "mechanicalBikes": 1,
+        "electricalBikes": 0,
+        "electricalInternalBatteryBikes": 0,
+        "electricalRemovableBatteryBikes": 0
+      },
+      "capacity": 20
+    },
+    "overflowStands": null
+  },
+  {
+    "number": 70,
+    "contractName": "ljubljana",
+    "name": "POLJE",
+    "address": "Zadobrovška cesta",
+    "position": {
+      "latitude": 46.05722,
+      "longitude": 14.583537
+    },
+    "banking": false,
+    "bonus": false,
+    "status": "OPEN",
+    "lastUpdate": "2024-01-14T22:36:29Z",
+    "connected": true,
+    "overflow": false,
+    "shape": null,
+    "totalStands": {
+      "availabilities": {
+        "bikes": 6,
+        "stands": 14,
+        "mechanicalBikes": 6,
+        "electricalBikes": 0,
+        "electricalInternalBatteryBikes": 0,
+        "electricalRemovableBatteryBikes": 0
+      },
+      "capacity": 20
+    },
+    "mainStands": {
+      "availabilities": {
+        "bikes": 6,
+        "stands": 14,
+        "mechanicalBikes": 6,
+        "electricalBikes": 0,
+        "electricalInternalBatteryBikes": 0,
+        "electricalRemovableBatteryBikes": 0
+      },
+      "capacity": 20
+    },
+    "overflowStands": null
+  },
+  {
+    "number": 83,
+    "contractName": "ljubljana",
+    "name": "SUPERNOVA LJUBLJANA - RUDNIK",
+    "address": "Jurčkova 223",
+    "position": {
+      "latitude": 46.021586,
+      "longitude": 14.536745
+    },
+    "banking": false,
+    "bonus": false,
+    "status": "OPEN",
+    "lastUpdate": "2024-01-14T22:38:47Z",
+    "connected": true,
+    "overflow": false,
+    "shape": null,
+    "totalStands": {
+      "availabilities": {
+        "bikes": 0,
+        "stands": 20,
+        "mechanicalBikes": 0,
+        "electricalBikes": 0,
+        "electricalInternalBatteryBikes": 0,
+        "electricalRemovableBatteryBikes": 0
+      },
+      "capacity": 20
+    },
+    "mainStands": {
+      "availabilities": {
+        "bikes": 0,
+        "stands": 20,
+        "mechanicalBikes": 0,
+        "electricalBikes": 0,
+        "electricalInternalBatteryBikes": 0,
+        "electricalRemovableBatteryBikes": 0
+      },
+      "capacity": 20
+    },
+    "overflowStands": null
+  },
+  {
+    "number": 56,
+    "contractName": "ljubljana",
+    "name": "SREDNJA FRIZERSKA ŠOLA",
+    "address": "Litostrojska cesta 53",
+    "position": {
+      "latitude": 46.080522,
+      "longitude": 14.491439
+    },
+    "banking": false,
+    "bonus": false,
+    "status": "OPEN",
+    "lastUpdate": "2024-01-14T22:38:44Z",
+    "connected": true,
+    "overflow": false,
+    "shape": null,
+    "totalStands": {
+      "availabilities": {
+        "bikes": 6,
+        "stands": 14,
+        "mechanicalBikes": 6,
+        "electricalBikes": 0,
+        "electricalInternalBatteryBikes": 0,
+        "electricalRemovableBatteryBikes": 0
+      },
+      "capacity": 20
+    },
+    "mainStands": {
+      "availabilities": {
+        "bikes": 6,
+        "stands": 14,
+        "mechanicalBikes": 6,
+        "electricalBikes": 0,
+        "electricalInternalBatteryBikes": 0,
+        "electricalRemovableBatteryBikes": 0
+      },
+      "capacity": 20
+    },
+    "overflowStands": null
+  },
+  {
+    "number": 9,
+    "contractName": "ljubljana",
+    "name": "TRG OF-KOLODVORSKA UL.",
+    "address": "Trg OF 12",
+    "position": {
+      "latitude": 46.057421,
+      "longitude": 14.510265
+    },
+    "banking": false,
+    "bonus": false,
+    "status": "OPEN",
+    "lastUpdate": "2024-01-14T22:30:37Z",
+    "connected": true,
+    "overflow": false,
+    "shape": null,
+    "totalStands": {
+      "availabilities": {
+        "bikes": 0,
+        "stands": 26,
+        "mechanicalBikes": 0,
+        "electricalBikes": 0,
+        "electricalInternalBatteryBikes": 0,
+        "electricalRemovableBatteryBikes": 0
+      },
+      "capacity": 26
+    },
+    "mainStands": {
+      "availabilities": {
+        "bikes": 0,
+        "stands": 26,
+        "mechanicalBikes": 0,
+        "electricalBikes": 0,
+        "electricalInternalBatteryBikes": 0,
+        "electricalRemovableBatteryBikes": 0
+      },
+      "capacity": 26
+    },
+    "overflowStands": null
+  },
+  {
+    "number": 13,
+    "contractName": "ljubljana",
+    "name": "TRG MDB",
+    "address": "Trg MDB 9",
+    "position": {
+      "latitude": 46.047565,
+      "longitude": 14.495687
+    },
+    "banking": false,
+    "bonus": false,
+    "status": "OPEN",
+    "lastUpdate": "2024-01-14T22:30:56Z",
+    "connected": true,
+    "overflow": false,
+    "shape": null,
+    "totalStands": {
+      "availabilities": {
+        "bikes": 6,
+        "stands": 14,
+        "mechanicalBikes": 6,
+        "electricalBikes": 0,
+        "electricalInternalBatteryBikes": 0,
+        "electricalRemovableBatteryBikes": 0
+      },
+      "capacity": 20
+    },
+    "mainStands": {
+      "availabilities": {
+        "bikes": 6,
+        "stands": 14,
+        "mechanicalBikes": 6,
+        "electricalBikes": 0,
+        "electricalInternalBatteryBikes": 0,
+        "electricalRemovableBatteryBikes": 0
+      },
+      "capacity": 20
+    },
+    "overflowStands": null
+  },
+  {
+    "number": 18,
+    "contractName": "ljubljana",
+    "name": "TRŽAŠKA C.-ILIRIJA",
+    "address": "Tržaška cesta 37",
+    "position": {
+      "latitude": 46.044629,
+      "longitude": 14.486699
+    },
+    "banking": false,
+    "bonus": false,
+    "status": "OPEN",
+    "lastUpdate": "2024-01-14T22:39:44Z",
+    "connected": true,
+    "overflow": false,
+    "shape": null,
+    "totalStands": {
+      "availabilities": {
+        "bikes": 10,
+        "stands": 10,
+        "mechanicalBikes": 10,
+        "electricalBikes": 0,
+        "electricalInternalBatteryBikes": 0,
+        "electricalRemovableBatteryBikes": 0
+      },
+      "capacity": 20
+    },
+    "mainStands": {
+      "availabilities": {
+        "bikes": 10,
+        "stands": 10,
+        "mechanicalBikes": 10,
+        "electricalBikes": 0,
+        "electricalInternalBatteryBikes": 0,
+        "electricalRemovableBatteryBikes": 0
+      },
+      "capacity": 20
+    },
+    "overflowStands": null
+  },
+  {
+    "number": 1,
+    "contractName": "ljubljana",
+    "name": "PREŠERNOV TRG-PETKOVŠKOVO NABREŽJE",
+    "address": "Prešernov trg 6",
+    "position": {
+      "latitude": 46.051367,
+      "longitude": 14.506542
+    },
+    "banking": false,
+    "bonus": false,
+    "status": "OPEN",
+    "lastUpdate": "2024-01-14T22:39:03Z",
+    "connected": true,
+    "overflow": false,
+    "shape": null,
+    "totalStands": {
+      "availabilities": {
+        "bikes": 16,
+        "stands": 4,
+        "mechanicalBikes": 16,
+        "electricalBikes": 0,
+        "electricalInternalBatteryBikes": 0,
+        "electricalRemovableBatteryBikes": 0
+      },
+      "capacity": 20
+    },
+    "mainStands": {
+      "availabilities": {
+        "bikes": 16,
+        "stands": 4,
+        "mechanicalBikes": 16,
+        "electricalBikes": 0,
+        "electricalInternalBatteryBikes": 0,
+        "electricalRemovableBatteryBikes": 0
+      },
+      "capacity": 20
+    },
+    "overflowStands": null
+  },
+  {
+    "number": 60,
+    "contractName": "ljubljana",
+    "name": "MERCATOR MARKET - CELOVŠKA C. 163",
+    "address": "Celovška 163",
+    "position": {
+      "latitude": 46.073264,
+      "longitude": 14.485942
+    },
+    "banking": false,
+    "bonus": false,
+    "status": "OPEN",
+    "lastUpdate": "2024-01-14T22:38:13Z",
+    "connected": true,
+    "overflow": false,
+    "shape": null,
+    "totalStands": {
+      "availabilities": {
+        "bikes": 9,
+        "stands": 10,
+        "mechanicalBikes": 10,
+        "electricalBikes": 0,
+        "electricalInternalBatteryBikes": 0,
+        "electricalRemovableBatteryBikes": 0
+      },
+      "capacity": 20
+    },
+    "mainStands": {
+      "availabilities": {
+        "bikes": 9,
+        "stands": 10,
+        "mechanicalBikes": 10,
+        "electricalBikes": 0,
+        "electricalInternalBatteryBikes": 0,
+        "electricalRemovableBatteryBikes": 0
+      },
+      "capacity": 20
+    },
+    "overflowStands": null
+  },
+  {
+    "number": 44,
+    "contractName": "ljubljana",
+    "name": "SAVSKO NASELJE 2-LINHARTOVA CESTA",
+    "address": "Topniška 54",
+    "position": {
+      "latitude": 46.064546,
+      "longitude": 14.518013
+    },
+    "banking": false,
+    "bonus": false,
+    "status": "OPEN",
+    "lastUpdate": "2024-01-14T22:38:29Z",
+    "connected": true,
+    "overflow": false,
+    "shape": null,
+    "totalStands": {
+      "availabilities": {
+        "bikes": 18,
+        "stands": 2,
+        "mechanicalBikes": 18,
+        "electricalBikes": 0,
+        "electricalInternalBatteryBikes": 0,
+        "electricalRemovableBatteryBikes": 0
+      },
+      "capacity": 20
+    },
+    "mainStands": {
+      "availabilities": {
+        "bikes": 18,
+        "stands": 2,
+        "mechanicalBikes": 18,
+        "electricalBikes": 0,
+        "electricalInternalBatteryBikes": 0,
+        "electricalRemovableBatteryBikes": 0
+      },
+      "capacity": 20
+    },
+    "overflowStands": null
+  },
+  {
+    "number": 5,
+    "contractName": "ljubljana",
+    "name": "BREG",
+    "address": "Breg 20",
+    "position": {
+      "latitude": 46.046498,
+      "longitude": 14.505148
+    },
+    "banking": false,
+    "bonus": false,
+    "status": "OPEN",
+    "lastUpdate": "2024-01-14T22:37:07Z",
+    "connected": true,
+    "overflow": false,
+    "shape": null,
+    "totalStands": {
+      "availabilities": {
+        "bikes": 11,
+        "stands": 9,
+        "mechanicalBikes": 11,
+        "electricalBikes": 0,
+        "electricalInternalBatteryBikes": 0,
+        "electricalRemovableBatteryBikes": 0
+      },
+      "capacity": 20
+    },
+    "mainStands": {
+      "availabilities": {
+        "bikes": 11,
+        "stands": 9,
+        "mechanicalBikes": 11,
+        "electricalBikes": 0,
+        "electricalInternalBatteryBikes": 0,
+        "electricalRemovableBatteryBikes": 0
+      },
+      "capacity": 20
+    },
+    "overflowStands": null
+  },
+  {
+    "number": 36,
+    "contractName": "ljubljana",
+    "name": "BTC CITY ATLANTIS",
+    "address": "BTC City Atlantis",
+    "position": {
+      "latitude": 46.063081,
+      "longitude": 14.547851
+    },
+    "banking": false,
+    "bonus": false,
+    "status": "OPEN",
+    "lastUpdate": "2024-01-14T22:39:32Z",
+    "connected": true,
+    "overflow": false,
+    "shape": null,
+    "totalStands": {
+      "availabilities": {
+        "bikes": 6,
+        "stands": 14,
+        "mechanicalBikes": 6,
+        "electricalBikes": 0,
+        "electricalInternalBatteryBikes": 0,
+        "electricalRemovableBatteryBikes": 0
+      },
+      "capacity": 20
+    },
+    "mainStands": {
+      "availabilities": {
+        "bikes": 6,
+        "stands": 14,
+        "mechanicalBikes": 6,
+        "electricalBikes": 0,
+        "electricalInternalBatteryBikes": 0,
+        "electricalRemovableBatteryBikes": 0
+      },
+      "capacity": 20
+    },
+    "overflowStands": null
+  },
+  {
+    "number": 63,
+    "contractName": "ljubljana",
+    "name": "IKEA",
+    "address": "Švedska ulica 6",
+    "position": {
+      "latitude": 46.065175,
+      "longitude": 14.539537
+    },
+    "banking": false,
+    "bonus": false,
+    "status": "OPEN",
+    "lastUpdate": "2024-01-14T22:34:53Z",
+    "connected": true,
+    "overflow": false,
+    "shape": null,
+    "totalStands": {
+      "availabilities": {
+        "bikes": 2,
+        "stands": 18,
+        "mechanicalBikes": 2,
+        "electricalBikes": 0,
+        "electricalInternalBatteryBikes": 0,
+        "electricalRemovableBatteryBikes": 0
+      },
+      "capacity": 20
+    },
+    "mainStands": {
+      "availabilities": {
+        "bikes": 2,
+        "stands": 18,
+        "mechanicalBikes": 2,
+        "electricalBikes": 0,
+        "electricalInternalBatteryBikes": 0,
+        "electricalRemovableBatteryBikes": 0
+      },
+      "capacity": 20
+    },
+    "overflowStands": null
+  },
+  {
+    "number": 7,
+    "contractName": "ljubljana",
+    "name": "MIKLOŠIČEV PARK",
+    "address": "Miklošičeva cesta 20",
+    "position": {
+      "latitude": 46.054168,
+      "longitude": 14.50706
+    },
+    "banking": false,
+    "bonus": false,
+    "status": "OPEN",
+    "lastUpdate": "2024-01-14T22:37:31Z",
+    "connected": true,
+    "overflow": false,
+    "shape": null,
+    "totalStands": {
+      "availabilities": {
+        "bikes": 0,
+        "stands": 17,
+        "mechanicalBikes": 0,
+        "electricalBikes": 0,
+        "electricalInternalBatteryBikes": 0,
+        "electricalRemovableBatteryBikes": 0
+      },
+      "capacity": 18
+    },
+    "mainStands": {
+      "availabilities": {
+        "bikes": 0,
+        "stands": 17,
+        "mechanicalBikes": 0,
+        "electricalBikes": 0,
+        "electricalInternalBatteryBikes": 0,
+        "electricalRemovableBatteryBikes": 0
+      },
+      "capacity": 18
+    },
+    "overflowStands": null
+  },
+  {
+    "number": 23,
+    "contractName": "ljubljana",
+    "name": "BARJANSKA C.-CENTER STAREJŠIH TRNOVO",
+    "address": "Devinska ulica 1a",
+    "position": {
+      "latitude": 46.04081,
+      "longitude": 14.49951
+    },
+    "banking": false,
+    "bonus": false,
+    "status": "OPEN",
+    "lastUpdate": "2024-01-14T22:38:54Z",
+    "connected": true,
+    "overflow": false,
+    "shape": null,
+    "totalStands": {
+      "availabilities": {
+        "bikes": 16,
+        "stands": 4,
+        "mechanicalBikes": 16,
+        "electricalBikes": 0,
+        "electricalInternalBatteryBikes": 0,
+        "electricalRemovableBatteryBikes": 0
+      },
+      "capacity": 20
+    },
+    "mainStands": {
+      "availabilities": {
+        "bikes": 16,
+        "stands": 4,
+        "mechanicalBikes": 16,
+        "electricalBikes": 0,
+        "electricalInternalBatteryBikes": 0,
+        "electricalRemovableBatteryBikes": 0
+      },
+      "capacity": 20
+    },
+    "overflowStands": null
+  },
+  {
+    "number": 81,
+    "contractName": "ljubljana",
+    "name": "LEK - VEROVŠKOVA",
+    "address": "Verovškova 57",
+    "position": {
+      "latitude": 46.076856,
+      "longitude": 14.500222
+    },
+    "banking": false,
+    "bonus": false,
+    "status": "OPEN",
+    "lastUpdate": "2024-01-14T22:40:22Z",
+    "connected": true,
+    "overflow": false,
+    "shape": null,
+    "totalStands": {
+      "availabilities": {
+        "bikes": 1,
+        "stands": 19,
+        "mechanicalBikes": 1,
+        "electricalBikes": 0,
+        "electricalInternalBatteryBikes": 0,
+        "electricalRemovableBatteryBikes": 0
+      },
+      "capacity": 20
+    },
+    "mainStands": {
+      "availabilities": {
+        "bikes": 1,
+        "stands": 19,
+        "mechanicalBikes": 1,
+        "electricalBikes": 0,
+        "electricalInternalBatteryBikes": 0,
+        "electricalRemovableBatteryBikes": 0
+      },
+      "capacity": 20
+    },
+    "overflowStands": null
+  },
+  {
+    "number": 15,
+    "contractName": "ljubljana",
+    "name": "AMBROŽEV TRG",
+    "address": "Poljanska cesta 20c",
+    "position": {
+      "latitude": 46.049877,
+      "longitude": 14.516308
+    },
+    "banking": false,
+    "bonus": false,
+    "status": "OPEN",
+    "lastUpdate": "2024-01-14T22:40:04Z",
+    "connected": true,
+    "overflow": false,
+    "shape": null,
+    "totalStands": {
+      "availabilities": {
+        "bikes": 16,
+        "stands": 2,
+        "mechanicalBikes": 16,
+        "electricalBikes": 0,
+        "electricalInternalBatteryBikes": 0,
+        "electricalRemovableBatteryBikes": 0
+      },
+      "capacity": 18
+    },
+    "mainStands": {
+      "availabilities": {
+        "bikes": 16,
+        "stands": 2,
+        "mechanicalBikes": 16,
+        "electricalBikes": 0,
+        "electricalInternalBatteryBikes": 0,
+        "electricalRemovableBatteryBikes": 0
+      },
+      "capacity": 18
+    },
+    "overflowStands": null
+  },
+  {
+    "number": 77,
+    "contractName": "ljubljana",
+    "name": "VOJKOVA - GASILSKA BRIGADA",
+    "address": "Vojkova cesta",
+    "position": {
+      "latitude": 46.068727,
+      "longitude": 14.516858
+    },
+    "banking": false,
+    "bonus": false,
+    "status": "OPEN",
+    "lastUpdate": "2024-01-14T22:39:09Z",
+    "connected": true,
+    "overflow": false,
+    "shape": null,
+    "totalStands": {
+      "availabilities": {
+        "bikes": 8,
+        "stands": 12,
+        "mechanicalBikes": 8,
+        "electricalBikes": 0,
+        "electricalInternalBatteryBikes": 0,
+        "electricalRemovableBatteryBikes": 0
+      },
+      "capacity": 20
+    },
+    "mainStands": {
+      "availabilities": {
+        "bikes": 8,
+        "stands": 12,
+        "mechanicalBikes": 8,
+        "electricalBikes": 0,
+        "electricalInternalBatteryBikes": 0,
+        "electricalRemovableBatteryBikes": 0
+      },
+      "capacity": 20
+    },
+    "overflowStands": null
+  },
+  {
+    "number": 61,
+    "contractName": "ljubljana",
+    "name": "RAKOVNIK",
+    "address": "Rakovnik",
+    "position": {
+      "latitude": 46.036284,
+      "longitude": 14.522948
+    },
+    "banking": false,
+    "bonus": false,
+    "status": "OPEN",
+    "lastUpdate": "2024-01-14T22:37:18Z",
+    "connected": true,
+    "overflow": false,
+    "shape": null,
+    "totalStands": {
+      "availabilities": {
+        "bikes": 8,
+        "stands": 12,
+        "mechanicalBikes": 8,
+        "electricalBikes": 0,
+        "electricalInternalBatteryBikes": 0,
+        "electricalRemovableBatteryBikes": 0
+      },
+      "capacity": 20
+    },
+    "mainStands": {
+      "availabilities": {
+        "bikes": 8,
+        "stands": 12,
+        "mechanicalBikes": 8,
+        "electricalBikes": 0,
+        "electricalInternalBatteryBikes": 0,
+        "electricalRemovableBatteryBikes": 0
+      },
+      "capacity": 20
+    },
+    "overflowStands": null
+  },
+  {
+    "number": 50,
+    "contractName": "ljubljana",
+    "name": "PREGLOV TRG",
+    "address": "Nove Fuzine 33",
+    "position": {
+      "latitude": 46.054554,
+      "longitude": 14.55908
+    },
+    "banking": false,
+    "bonus": false,
+    "status": "OPEN",
+    "lastUpdate": "2024-01-14T22:33:27Z",
+    "connected": true,
+    "overflow": false,
+    "shape": null,
+    "totalStands": {
+      "availabilities": {
+        "bikes": 16,
+        "stands": 3,
+        "mechanicalBikes": 16,
+        "electricalBikes": 0,
+        "electricalInternalBatteryBikes": 0,
+        "electricalRemovableBatteryBikes": 0
+      },
+      "capacity": 20
+    },
+    "mainStands": {
+      "availabilities": {
+        "bikes": 16,
+        "stands": 3,
+        "mechanicalBikes": 16,
+        "electricalBikes": 0,
+        "electricalInternalBatteryBikes": 0,
+        "electricalRemovableBatteryBikes": 0
+      },
+      "capacity": 20
+    },
+    "overflowStands": null
+  },
+  {
+    "number": 28,
+    "contractName": "ljubljana",
+    "name": "PLEČNIKOV STADION",
+    "address": "Dunajska cesta 70",
+    "position": {
+      "latitude": 46.06942,
+      "longitude": 14.51052
+    },
+    "banking": false,
+    "bonus": false,
+    "status": "OPEN",
+    "lastUpdate": "2024-01-14T22:38:06Z",
+    "connected": true,
+    "overflow": false,
+    "shape": null,
+    "totalStands": {
+      "availabilities": {
+        "bikes": 10,
+        "stands": 8,
+        "mechanicalBikes": 10,
+        "electricalBikes": 0,
+        "electricalInternalBatteryBikes": 0,
+        "electricalRemovableBatteryBikes": 0
+      },
+      "capacity": 18
+    },
+    "mainStands": {
+      "availabilities": {
+        "bikes": 10,
+        "stands": 8,
+        "mechanicalBikes": 10,
+        "electricalBikes": 0,
+        "electricalInternalBatteryBikes": 0,
+        "electricalRemovableBatteryBikes": 0
+      },
+      "capacity": 18
+    },
+    "overflowStands": null
+  }
+]

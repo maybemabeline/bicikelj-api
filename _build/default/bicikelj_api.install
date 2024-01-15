@@ -1,0 +1,8 @@
+lib: [
+  "_build/install/default/lib/bicikelj_api/META"
+  "_build/install/default/lib/bicikelj_api/dune-package"
+  "_build/install/default/lib/bicikelj_api/opam"
+]
+bin: [
+  "_build/install/default/bin/bicikelj_api"
+]

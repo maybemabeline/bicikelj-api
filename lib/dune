@@ -1,0 +1,3 @@
+(library
+ (name bicikelj_api)
+ (libraries yojson))
